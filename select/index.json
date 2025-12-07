@@ -1,0 +1,168 @@
+{
+  "version": 1,
+  "base_track": "ブルーバード",
+  "base_artist": "Ikimonogakari",
+  "createdAt": "2025-12-07T11:32:22.046051Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "ブルーバード",
+      "artist": "Ikimonogakari",
+      "has_synced": true,
+      "path": "select/01_ブルーバード_Ikimonogakari.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "ブルーバード",
+      "artist": "いきものがかり",
+      "has_synced": true,
+      "path": "select/02_ブルーバード_いきものがかり.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "ブルーバード",
+      "artist": "Lia",
+      "has_synced": false,
+      "path": "select/03_ブルーバード_Lia.txt"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "ブルーバード",
+      "artist": "いきものがかり",
+      "has_synced": true,
+      "path": "select/04_ブルーバード_いきものがかり.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "ブルーバード",
+      "artist": "Ikimonogakari",
+      "has_synced": true,
+      "path": "select/05_ブルーバード_Ikimonogakari.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "いきものがかり 『ブルーバード』Music Video",
+      "artist": "Ikimonogakari",
+      "has_synced": true,
+      "path": "select/06_いきものがかり_『ブルーバード』Music_Video_Ikimonogakari.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "ブルーバード",
+      "artist": "生物股长",
+      "has_synced": true,
+      "path": "select/07_ブルーバード_生物股长.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "ブルーバード",
+      "artist": "いきものがかり",
+      "has_synced": true,
+      "path": "select/08_ブルーバード_いきものがかり.lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "ブルーバード-2009 LIVE ver.-",
+      "artist": "Ikimonogakari",
+      "has_synced": false,
+      "path": "select/09_ブルーバード-2009_LIVE_ver.-_Ikimonogakari.txt"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "ブルーバード -2009 LIVE ver.-",
+      "artist": "いきものがかり",
+      "has_synced": false,
+      "path": "select/10_ブルーバード_-2009_LIVE_ver.-_いきものがかり.txt"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "ブルーバード",
+      "artist": "いきものがかり",
+      "has_synced": false,
+      "path": "select/pl_01_ブルーバード_いきものがかり.txt"
+    },
+    {
+      "id": "petitlyrics_2",
+      "source": "petitlyrics",
+      "title": "ブルーバード",
+      "artist": "いきものがかり",
+      "has_synced": false,
+      "path": "select/pl_02_ブルーバード_いきものがかり.txt"
+    },
+    {
+      "id": "petitlyrics_3",
+      "source": "petitlyrics",
+      "title": "ブルーバード",
+      "artist": "いきものがかり",
+      "has_synced": false,
+      "path": "select/pl_03_ブルーバード_いきものがかり.txt"
+    },
+    {
+      "id": "petitlyrics_4",
+      "source": "petitlyrics",
+      "title": "ブルーバード",
+      "artist": "いきものがかり",
+      "has_synced": false,
+      "path": "select/pl_04_ブルーバード_いきものがかり.txt"
+    },
+    {
+      "id": "petitlyrics_5",
+      "source": "petitlyrics",
+      "title": "ブルーバード",
+      "artist": "いきものがかり",
+      "has_synced": false,
+      "path": "select/pl_05_ブルーバード_いきものがかり.txt"
+    },
+    {
+      "id": "petitlyrics_6",
+      "source": "petitlyrics",
+      "title": "ブルーバード",
+      "artist": "いきものがかり",
+      "has_synced": false,
+      "path": "select/pl_06_ブルーバード_いきものがかり.txt"
+    },
+    {
+      "id": "petitlyrics_7",
+      "source": "petitlyrics",
+      "title": "ブルーバード",
+      "artist": "いきものがかり",
+      "has_synced": false,
+      "path": "select/pl_07_ブルーバード_いきものがかり.txt"
+    },
+    {
+      "id": "petitlyrics_8",
+      "source": "petitlyrics",
+      "title": "ブルーバード -2009 LIVE ver.-",
+      "artist": "いきものがかり",
+      "has_synced": false,
+      "path": "select/pl_08_ブルーバード_-2009_LIVE_ver.-_いきものがかり.txt"
+    },
+    {
+      "id": "petitlyrics_9",
+      "source": "petitlyrics",
+      "title": "ブルーバード",
+      "artist": "いきものがかり",
+      "has_synced": false,
+      "path": "select/pl_09_ブルーバード_いきものがかり.txt"
+    },
+    {
+      "id": "petitlyrics_10",
+      "source": "petitlyrics",
+      "title": "ブルーバード -2010 LIVE at 横浜アリーナ ver.-",
+      "artist": "いきものがかり",
+      "has_synced": false,
+      "path": "select/pl_10_ブルーバード_-2010_LIVE_at_横浜アリーナ_ver.-_いきものがかり.txt"
+    }
+  ]
+}
